@@ -1,5 +1,6 @@
 <?php
-	$DB_DSN = ’mysql:host=localhost’;
-	$DB_USER = hamza;
-	$DB_PASSWORD = camagru;
+	$DB_DNS	 = "mysql:host=localhost";
+	$DB_USER = "root";
+	$DB_PASSWORD = "SOUSOU08";
+	$DB_NAME = "shot_pic";
 ?>
