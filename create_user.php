@@ -25,6 +25,6 @@
 	    }
 
 	$conn = null;
-	header('Location: index.php');
+	header('Location: file_h/ create_user.html');
 
 ?>
